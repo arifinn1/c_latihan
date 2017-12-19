@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{883F7854-1B68-41CC-BAE3-E13829F2A909}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Pemrog_Visual_2</RootNamespace>
+    <AssemblyName>Pemrog Visual 2</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Pemrog_Visual_2.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.10.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BAB4\Array1.cs" />
+    <Compile Include="BAB4\Array2.cs" />
+    <Compile Include="BAB4\doWhile1.cs" />
+    <Compile Include="BAB4\doWhile2.cs" />
+    <Compile Include="BAB4\For1.cs" />
+    <Compile Include="BAB4\For2.cs" />
+    <Compile Include="BAB4\While1.cs" />
+    <Compile Include="BAB4\While2.cs" />
+    <Compile Include="BAB5\ArrayList1.cs" />
+    <Compile Include="BAB5\ArrayList2.cs" />
+    <Compile Include="BAB5\ArrayList3.cs" />
+    <Compile Include="BAB5\ArrayList4.cs" />
+    <Compile Include="BAB5\ArrayList5.cs" />
+    <Compile Include="BAB5\ArrayList6.cs" />
+    <Compile Include="BAB5\ArrayList7.cs" />
+    <Compile Include="BAB5\ArrayList8.cs" />
+    <Compile Include="BAB5\ArrayList9.cs" />
+    <Compile Include="BAB5\SortedList1.cs" />
+    <Compile Include="BAB5\SortedList2.cs" />
+    <Compile Include="BAB5\SortedList3.cs" />
+    <Compile Include="BAB5\SortedList4.cs" />
+    <Compile Include="BAB7\FormCalc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BAB7\FormCalc.Designer.cs">
+      <DependentUpon>FormCalc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BAB7\FormNilai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BAB7\FormNilai.Designer.cs">
+      <DependentUpon>FormNilai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BAB8\ProdukFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BAB8\ProdukFrm.Designer.cs">
+      <DependentUpon>ProdukFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BAB8\MySQLdb.cs" />
+    <Compile Include="BAB8\Produk_Serv.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BAB7\FormCalc.resx">
+      <DependentUpon>FormCalc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BAB7\FormNilai.resx">
+      <DependentUpon>FormNilai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BAB8\ProdukFrm.resx">
+      <DependentUpon>ProdukFrm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
