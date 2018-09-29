@@ -9,7 +9,7 @@ namespace Pemrog_Visual_2
         static void Main()
         {
             Application.EnableVisualStyles();
-            Application.Run(new BAB8.ProdukFrm());
+            Application.Run(new BAB9.Produk2Frm());
         }
     }
 }

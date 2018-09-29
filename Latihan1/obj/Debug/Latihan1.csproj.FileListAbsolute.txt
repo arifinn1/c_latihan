@@ -1,0 +1,11 @@
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\bin\Debug\Latihan1.exe.config
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\bin\Debug\Latihan1.exe
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\bin\Debug\Latihan1.pdb
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\obj\Debug\Latihan1.csprojAssemblyReference.cache
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\obj\Debug\Latihan1.Properties.Resources.resources
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\obj\Debug\Latihan1.csproj.GenerateResource.cache
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\obj\Debug\Latihan1.csproj.CoreCompileInputs.cache
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\obj\Debug\Latihan1.exe
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\obj\Debug\Latihan1.pdb
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\obj\Debug\Latihan1.BAB7.Form1.resources
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\obj\Debug\Latihan1.BAB8.MahasiswaFrm.resources

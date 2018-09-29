@@ -1,0 +1,11 @@
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.deps.json
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.runtimeconfig.json
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.runtimeconfig.dev.json
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.dll
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.pdb
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.csprojAssemblyReference.cache
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.AssemblyInfoInputs.cache
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.AssemblyInfo.cs
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.dll
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.pdb

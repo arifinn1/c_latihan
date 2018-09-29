@@ -1,0 +1,9 @@
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\StringLibrary\bin\Debug\netcoreapp2.0\StringLibrary.deps.json
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\StringLibrary\bin\Debug\netcoreapp2.0\StringLibrary.dll
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\StringLibrary\bin\Debug\netcoreapp2.0\StringLibrary.pdb
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\StringLibrary\obj\Debug\netcoreapp2.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\StringLibrary\obj\Debug\netcoreapp2.0\StringLibrary.AssemblyInfoInputs.cache
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\StringLibrary\obj\Debug\netcoreapp2.0\StringLibrary.AssemblyInfo.cs
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\StringLibrary\obj\Debug\netcoreapp2.0\StringLibrary.dll
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\StringLibrary\obj\Debug\netcoreapp2.0\StringLibrary.pdb
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\StringLibrary\obj\Debug\netcoreapp2.0\StringLibrary.csprojAssemblyReference.cache

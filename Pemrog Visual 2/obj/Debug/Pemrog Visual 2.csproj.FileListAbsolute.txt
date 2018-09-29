@@ -1,7 +1,6 @@
 D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\bin\Debug\Pemrog Visual 2.exe.config
 D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\bin\Debug\Pemrog Visual 2.exe
 D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\bin\Debug\Pemrog Visual 2.pdb
-D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\obj\Debug\Pemrog Visual 2.csprojResolveAssemblyReference.cache
 D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\obj\Debug\Pemrog Visual 2.csproj.CoreCompileInputs.cache
 D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\obj\Debug\Pemrog Visual 2.exe
 D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\obj\Debug\Pemrog Visual 2.pdb
@@ -11,3 +10,10 @@ D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\o
 D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\bin\Debug\MySql.Data.dll
 D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\bin\Debug\MySql.Data.xml
 D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\obj\Debug\Pemrog_Visual_2.BAB8.ProdukFrm.resources
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\obj\Debug\Pemrog_Visual_2.BAB9.Produk2Frm.resources
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\bin\Debug\EntityFramework.dll
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\bin\Debug\EntityFramework.SqlServer.dll
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\bin\Debug\EntityFramework.xml
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\bin\Debug\EntityFramework.SqlServer.xml
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\obj\Debug\Pemrog Visual 2.csprojAssemblyReference.cache
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Pemrog Visual 2\obj\Debug\Pemrog Visual 2.csproj.CopyComplete

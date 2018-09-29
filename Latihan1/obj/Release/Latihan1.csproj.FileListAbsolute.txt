@@ -1,0 +1,9 @@
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\bin\Release\Latihan1.exe.config
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\bin\Release\Latihan1.exe
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\bin\Release\Latihan1.pdb
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\obj\Release\Latihan1.csprojAssemblyReference.cache
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\obj\Release\Latihan1.Properties.Resources.resources
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\obj\Release\Latihan1.csproj.GenerateResource.cache
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\obj\Release\Latihan1.csproj.CoreCompileInputs.cache
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\obj\Release\Latihan1.exe
+D:\PENS\SEMESTER 3\Pemrog Visual\Pemrog Visual\Pemrog Visual 2\Latihan1\obj\Release\Latihan1.pdb
